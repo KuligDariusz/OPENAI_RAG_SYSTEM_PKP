@@ -1,0 +1,24 @@
+cookie:
+  expiry_days: 30
+  key: ee102ae62afd46603fb120c8c58c6d39984a4ac1a96130de
+  name: cookie
+credentials:
+  usernames:
+    admin:
+      email: ADMIN@example.com
+      logged_in: false
+      name: ADMIN
+      password: $2b$12$97iqu6yHsnkPU.IaiZf2s.ANH2XK.9GDmuxZ8Dv7yzB6M56OZpFF6
+      role: admin
+    konsultant:
+      email: KONSULTANT@example.com
+      logged_in: false
+      name: KONSULTANT
+      password: $2b$12$CVOAl8pQsMmfgr6JyRRXx.zFPBxegApy904XM4uPxZ9AXd/c8tI/6
+      role: consultant
+    pkp_kadra:
+      email: PKP_KADRA@example.com
+      logged_in: false
+      name: PKP_KADRA
+      password: $2b$12$hrvcLrKfEuiXD9pW72ZIUuKdo2upKC4bcKXyi/nOhBwarayIyJq9q
+      role: uploader

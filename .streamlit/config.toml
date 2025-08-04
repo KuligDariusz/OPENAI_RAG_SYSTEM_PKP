@@ -1,0 +1,9 @@
+[client]
+toolbarMode = "viewer"
+
+[ui]
+hideTopBar = true
+
+[server]
+address = "127.0.0.1"
+port = 8501
